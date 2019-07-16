@@ -20,7 +20,7 @@ const operators = [
     value: "-"
   },
   {
-    char: "+",
+    char: "+", 
     value: "+"
   },
   {
